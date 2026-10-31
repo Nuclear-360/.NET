@@ -50,8 +50,8 @@ Nenhum erro derruba a aplicação: validações e regras viram mensagens claras 
 Pré-requisito: [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0).
 
 ```bash
-git clone <URL-DO-REPOSITORIO>
-cd nuclear360-curadoria-dotnet
+git clone https://github.com/Nuclear-360/.NET.git
+cd nuclear360-dotnet
 
 dotnet run --project src/Nuclear360.Curadoria        
 dotnet run --project tests/Nuclear360.Curadoria.Testes   
